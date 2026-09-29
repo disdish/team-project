@@ -30,7 +30,9 @@ This contract sets out shared expectations and commitments for how our team will
   
   Wont be able to meet deadline, if they miss lecture or tutorial, are sick and therefore wont be able to work, need help, etc.
 
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class?
+
+Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.
 
 ---
 
@@ -45,16 +47,24 @@ This contract sets out shared expectations and commitments for how our team will
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
 
+Talk about it as a group and reach a consensus.
+
 ---
 ## Conflict resolution
 
 * How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
 
+We will talk to each other, or talk to someone if necessary.
+
 ---
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
+* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? 
+
+Completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.
+
+
 
 ---
 
@@ -63,5 +73,6 @@ This contract sets out shared expectations and commitments for how our team will
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
 Team Member Signatures:
+Victoria Djedjeian
 
 (type names here)
