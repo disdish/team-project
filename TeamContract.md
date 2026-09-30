@@ -75,5 +75,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 Team Member Signatures:
 Victoria Djedjeian
 Disha Joshi 
-
-(type names here)
+Sufia Naser
